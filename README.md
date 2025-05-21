@@ -1,6 +1,6 @@
 # Ex.No: 4   Implementation of Alpha Beta Pruning 
-### NAME : JANARTHANAN S                                                                    
-### REGISTER NUMBER : 212222040058
+### NAME : YUVARAJ B                                                                   
+### REGISTER NUMBER : 212222040186
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
